@@ -1,8 +1,10 @@
 # LlamaParser
 
-![llama_pattern.png](docs%2Fimages%2Fllama_pattern.png)
+![llama_parse.png](docs%2Fimages%2Fllama_parse.png)
 
-LlamaPattern is a tool to 
+LlamaParser is a (very much work in progress) tool to harness the power of LLMs to 
+parse structural information from documents using LLMs (e.g. tables, sections, paragraphs, etc.). This is particularly 
+necessary for a lot of complex formats like docx and pdf that are not readily converted to structured data.
 
 -----
 
